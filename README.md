@@ -14,9 +14,10 @@
 
 I’m **Armaan** — I build modern web apps with clean UI, smart logic, and practical features.
 
-- Full-stack development
-- AI / ML-powered projects
-- Learning, building, improving
+- less into Technical
+- More into AI 
+- &
+- 3D Stuffs (or say 3D artists)
 
 ---
 
