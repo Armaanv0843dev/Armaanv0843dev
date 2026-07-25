@@ -78,11 +78,6 @@ I'm Armaan — a developer and 3D artist passionate about AI, clean web experien
 </p>
 
 
-
-## P.S. If the dinosaur below isn't running, that's when you know production is down
-![Coding Dino](https://github.com/devanshgupta2005/devanshgupta2005/blob/main/dino.gif)
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=110&section=footer" />
 </p>
