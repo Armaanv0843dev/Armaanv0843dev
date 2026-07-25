@@ -4,30 +4,30 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=DS+AI+ENGINEER;Frontend+Engineer+%26+UI+Craftsman;Freelance+3D+Artists+&+UI+Designer;Building+Production-Grade+Apps;Always+Learning+Something+New"/>
 
-<p>
-<a href="https://www.artstation.com/armaan_0843"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/armaan-gupta-a64a02299"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto: armaan.gupta0843@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Armaanv0843dev"><img src="https://img.shields.io/github/followers/Armaanv0843dev?style=for-the-badge&logo=github&color=181717&label=Followers"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Armaanv0843dev&style=for-the-badge&color=00C2FF&label=Profile+Views"/>
-
 </div>
 
 <br/>
----
 
 ## About Me
 
-I’m **Armaan** — I build modern web apps with clean UI, smart logic, and practical features.
+I'm Armaan — a developer and 3D artist passionate about AI, clean web experiences, and realistic 3D visuals. I enjoy building projects that combine creativity with technology.
 
-- less into Technical
-- More into AI
-- &
-- 3D Stuffs (or say 3D artist)
+- Less about Theory
+- More about building with AI
+- Creating modern web apps
+- 3D Artist
 
----
+
+## Connect With Me
+
+<p>
+<a href="https://www.artstation.com/armaan_0843"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/armaan-gupta-a64a02299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto: armaan.gupta0843@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<a href="https://github.com/Armaanv0843dev"><img src="https://img.shields.io/github/followers/Armaanv0843dev?style=for-the-badge&logo=github&color=181717&label=Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Armaanv0843dev&style=for-the-badge&color=00C2FF&label=Profile+Views"/>
+</p>
 
 ## Featured Projects
 
@@ -52,11 +52,11 @@ I’m **Armaan** — I build modern web apps with clean UI, smart logic, and pra
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb"/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm"/>
 
 </div>
 
@@ -78,13 +78,6 @@ I’m **Armaan** — I build modern web apps with clean UI, smart logic, and pra
 </p>
 
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Armaanv0843dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/armaan-gupta-a64a02299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
 ## P.S. If the dinosaur below isn't running, that's when you know production is down
 ![Coding Dino](https://github.com/devanshgupta2005/devanshgupta2005/blob/main/dino.gif)
