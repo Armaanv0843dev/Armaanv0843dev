@@ -46,7 +46,7 @@ I’m **Armaan** — I build modern web apps with clean UI, smart logic, and pra
 
 <p align="center">
   <a href="https://github.com/Armaanv0843dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/armaan-gupta-a64a02299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
