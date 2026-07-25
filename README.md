@@ -1,13 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Armaan+%F0%9F%91%8B;less-into+Technical;more+%26+into+AI;3D+Stuffs+%7C+3D+Artist" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=ARMAAN%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DS%20AI%20Engineer%20%7C%20Building%20Modern%20Analytics%20Websites&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=DS+AI+ENGINEER;Frontend+Engineer+%26+UI+Craftsman;Freelance+3D+Artists+&+UI+Designer;Building+Production-Grade+Apps;Always+Learning+Something+New"/>
+
+<p>
+<a href="https://www.artstation.com/armaan_0843"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/armaan-gupta-a64a02299"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto: armaan.gupta0843@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Armaanv0843dev"><img src="https://img.shields.io/github/followers/Armaanv0843dev?style=for-the-badge&logo=github&color=181717&label=Followers"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Armaanv0843dev"><img src="https://img.shields.io/github/followers/Armaanv0843dev?style=for-the-badge&label=Followers&color=0A66C2"></a>
-  <a href="https://github.com/Armaanv0843dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20Repos-1f6feb?style=for-the-badge"></a>
-  <img src="https://komarev.com/ghpvc/?username=Armaanv0843dev&style=for-the-badge&color=0e75b6" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Armaanv0843dev&style=for-the-badge&color=00C2FF&label=Profile+Views"/>
 
+</div>
+
+<br/>
 ---
 
 ## About Me
@@ -32,15 +40,27 @@ I’m **Armaan** — I build modern web apps with clean UI, smart logic, and pra
 - **Password Generator** — secure password generator  
   - [Repo](https://github.com/Armaanv0843dev/Password-Generator-)
 
----
+<br/>
 
-## Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,python,flask,supabase,git,github" />
-</p>
+<div align="center">
 
----
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma"/>
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm"/>
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -57,7 +77,6 @@ I’m **Armaan** — I build modern web apps with clean UI, smart logic, and pra
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaanv0843dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
----
 
 ## Connect With Me
 
@@ -67,6 +86,11 @@ I’m **Armaan** — I build modern web apps with clean UI, smart logic, and pra
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+## P.S. If the dinosaur below isn't running, that's when you know production is down
+![Coding Dino](https://github.com/devanshgupta2005/devanshgupta2005/blob/main/dino.gif)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=110&section=footer" />
 </p>
+
