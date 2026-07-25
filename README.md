@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=ARMAAN%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DS%20AI%20Engineer%20%7C%20Building%20Modern%20Analytics%20Websites&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=ARMAAN%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DS%20and%20AI%20Engineer%20%7C%20Building%20AI%20Powered%20Analytics%20Platforms&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=DS+AI+ENGINEER;Frontend+Engineer+%26+UI+Craftsman;Freelance+3D+Artists+&+UI+Designer;Building+Production-Grade+Apps;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=DS+-+AI+ENGINEER;Frontend+Engineer+%26+UI+Craftsman;Freelance+3D+Artists+&+UI+Designer;Building+Production-Grade+Apps;Always+Learning+Something+New"/>
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ## About Me
 
-I'm Armaan — a developer and 3D artist passionate about AI, clean web experiences, and realistic 3D visuals. I enjoy building projects that combine creativity with technology.
+I'm a developer with a growing focus on Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy building scalable web applications and uncovering insights from data to solve real-world challenges. Alongside my technical work, I explore 3D art as a creative passion, creating realistic visualizations and digital experiences.
 
 - Less about Theory
-- More about building with AI
+- More about building with AI and DATA
 - Creating modern web apps
 - 3D Artist
 
@@ -29,18 +29,8 @@ I'm Armaan — a developer and 3D artist passionate about AI, clean web experien
 <img src="https://komarev.com/ghpvc/?username=Armaanv0843dev&style=for-the-badge&color=00C2FF&label=Profile+Views"/>
 </p>
 
-## Featured Projects
-
-- **AMS - Attendance Management System** — AI-powered attendance prediction  
-  - [Repo](https://github.com/Armaanv0843dev/AMS-Attendance_management_system) • [Live](https://ams-a.vercel.app)
-
-- **AI-Based Diet Planner** — personalized diet planning for health goals  
-  - [Repo](https://github.com/Armaanv0843dev/AI-based-DIET-planner-For-Chronic-DISEASE) • [Live](https://chrono-ai-diet.vercel.app)
-
-- **Password Generator** — secure password generator  
-  - [Repo](https://github.com/Armaanv0843dev/Password-Generator-)
-
 <br/>
+
 
 ## 🚀 Tech Stack
 
@@ -54,20 +44,39 @@ I'm Armaan — a developer and 3D artist passionate about AI, clean web experien
 <br/>
 <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb"/>
 
+**Data Analytics**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<br/>
+
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,vercel,npm"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armaanv0843dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaanv0843dev&theme=tokyonight&hide_border=true" height="170" />
-</p>
+## Featured Projects
+
+- **AMS - Attendance Management System** — AI-powered attendance prediction  
+  - [Repo](https://github.com/Armaanv0843dev/AMS-Attendance_management_system) • [Live](https://ams-a.vercel.app)
+
+- **AI-Based Diet Planner** — personalized diet planning for health goals  
+  - [Repo](https://github.com/Armaanv0843dev/AI-based-DIET-planner-For-Chronic-DISEASE) • [Live](https://chrono-ai-diet.vercel.app)
+
+- **Password Generator** — secure password generator  
+  - [Repo](https://github.com/Armaanv0843dev/Password-Generator-)
+
+
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armaanv0843dev&theme=tokyo-night&hide_border=true" width="95%" />
