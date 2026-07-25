@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Armaan+%F0%9F%91%8B;less-into+Technical;more+%26+into+3D-Stuff;Building+Useful+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Armaan+%F0%9F%91%8B;less-into+Technical;more+%26+into+AI;3D+Stuffs+%7C+3D+Artist" />
 </p>
 
 <p align="center">
@@ -15,21 +15,21 @@
 I’m **Armaan** — I build modern web apps with clean UI, smart logic, and practical features.
 
 - less into Technical
-- More into AI 
+- More into AI
 - &
-- 3D Stuffs (or say 3D artists)
+- 3D Stuffs (or say 3D artist)
 
 ---
 
 ## Featured Projects
 
-- **AMS - Attendance Management System** — AI-powered attendance prediction
+- **AMS - Attendance Management System** — AI-powered attendance prediction  
   - [Repo](https://github.com/Armaanv0843dev/AMS-Attendance_management_system) • [Live](https://ams-a.vercel.app)
 
-- **AI-Based Diet Planner** — personalized diet planning for health goals
+- **AI-Based Diet Planner** — personalized diet planning for health goals  
   - [Repo](https://github.com/Armaanv0843dev/AI-based-DIET-planner-For-Chronic-DISEASE) • [Live](https://chrono-ai-diet.vercel.app)
 
-- **Password Generator** — secure password generator
+- **Password Generator** — secure password generator  
   - [Repo](https://github.com/Armaanv0843dev/Password-Generator-)
 
 ---
@@ -38,6 +38,23 @@ I’m **Armaan** — I build modern web apps with clean UI, smart logic, and pra
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,python,flask,supabase,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armaanv0843dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaanv0843dev&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armaanv0843dev&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaanv0843dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
