@@ -8,7 +8,7 @@
 
 <br/>
 
-## About Me
+## About Me  ##
 
 I'm a developer with a growing focus on Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy building scalable web applications and uncovering insights from data to solve real-world challenges. Alongside my technical work, I explore 3D art as a creative passion, creating realistic visualizations and digital experiences.
 
