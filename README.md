@@ -68,11 +68,11 @@ I'm a developer with a growing focus on Data Analytics, Artificial Intelligence,
 - **AMS - Attendance Management System** — AI-powered attendance prediction  
   - [Repo](https://github.com/Armaanv0843dev/AMS-Attendance_management_system) • [Live](https://ams-a.vercel.app)
 
-- **AI-Based Diet Planner** — personalized diet planning for health goals  
-  - [Repo](https://github.com/Armaanv0843dev/AI-based-DIET-planner-For-Chronic-DISEASE) • [Live](https://chrono-ai-diet.vercel.app)
+- **Sentiment Analysis** — Machine Learning-based Sentiment Analysis Web Application
+  - [Repo](https://github.com/Armaanv0843dev/Sentiment-Analysis) • [Live](https://sentiment-analyst-site.streamlit.app/)
 
 - **Password Generator** — secure password generator  
-  - [Repo](https://github.com/Armaanv0843dev/Password-Generator-)
+  - [Repo](https://github.com/Armaanv0843dev/Password-Generator-) • [Live](https://password-generators-site.streamlit.app/)
 
 
 
